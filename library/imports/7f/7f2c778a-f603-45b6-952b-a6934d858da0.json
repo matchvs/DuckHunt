@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluenumber",
+    "texture": "e071a328-def8-43cb-854f-0f41998b264f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      320,
+      30
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      320,
+      31
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftgun",
+    "texture": "f82e9efc-0798-409c-bf86-afb4af4248bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      242
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      242
+    ]
+  }
+}

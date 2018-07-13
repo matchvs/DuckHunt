@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiane3",
+    "texture": "57964809-c1b2-40c7-a45a-19f92b0b061a",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      132,
+      129
+    ],
+    "offset": [
+      -4.5,
+      1.5
+    ],
+    "originalSize": [
+      143,
+      134
+    ]
+  }
+}

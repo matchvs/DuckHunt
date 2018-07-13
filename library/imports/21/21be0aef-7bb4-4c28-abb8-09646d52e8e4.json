@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plusbutton",
+    "texture": "80796a94-e347-4da6-8cc2-400f59759f2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      166
+    ]
+  }
+}

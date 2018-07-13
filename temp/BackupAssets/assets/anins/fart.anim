@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fart",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5e305fef-1488-4462-a016-c89d9c65bc68"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "13dbdad8-0c1e-4830-a378-5787e74469a6"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "aa8bdb2b-fe5b-46ec-8b24-f0b64c8d28f3"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "b8c5da6d-6cf6-4d30-b446-9c3868504ad5"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d87a3dfe-46dd-4b4f-94d3-c2503fc64688"
+            }
+          }
+        ],
+        "enabled": [
+          {
+            "frame": 0,
+            "value": true
+          },
+          {
+            "frame": 0.25,
+            "value": false
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

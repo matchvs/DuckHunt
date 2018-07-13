@@ -1,0 +1,72 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loadBullet",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5.283333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "paths": {
+      "bullet/mask": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 60
+            }
+          ]
+        }
+      },
+      "bullet/bulletEffect": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4.933333333333334,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 255
+            },
+            {
+              "frame": 5.283333333333333,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 5.216666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

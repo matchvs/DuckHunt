@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigLight",
+    "texture": "8e87d91b-4796-42e6-ae04-cfc26eb434f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      165,
+      164
+    ]
+  }
+}

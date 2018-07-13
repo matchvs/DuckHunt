@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "textwangluo",
+    "texture": "acacb258-edc4-45c6-85b0-0f652047e382",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      29
+    ]
+  }
+}

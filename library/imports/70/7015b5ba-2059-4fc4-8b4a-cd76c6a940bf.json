@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "teammateText",
+    "texture": "13df6fbe-844b-421c-b89f-0d3f26d02184",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      29
+    ]
+  }
+}

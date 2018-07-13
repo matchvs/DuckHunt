@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ballistic",
+    "texture": "a6edab9b-f64f-4a58-a987-7b9064425a5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      407,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      39
+    ]
+  }
+}

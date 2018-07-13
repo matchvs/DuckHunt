@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "myscore",
+    "texture": "3a1b45e5-57e8-4050-9897-4ea5982de310",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      31
+    ]
+  }
+}

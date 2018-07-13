@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yeniao2",
+    "texture": "672fe72c-81c0-4594-92fc-a7fd5ba2b1f6",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      130,
+      100
+    ],
+    "offset": [
+      -2,
+      -15
+    ],
+    "originalSize": [
+      134,
+      130
+    ]
+  }
+}

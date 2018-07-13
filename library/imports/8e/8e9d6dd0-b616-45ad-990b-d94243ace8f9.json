@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rednumber",
+    "texture": "69b5e927-a887-41a3-a068-e0b5f43628b0",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      320,
+      30
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      320,
+      31
+    ]
+  }
+}

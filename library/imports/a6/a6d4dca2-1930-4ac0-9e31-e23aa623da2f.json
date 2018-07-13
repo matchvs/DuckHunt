@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaozidan",
+    "texture": "09991649-11f4-4fdf-b187-631bd82af281",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      14,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      42
+    ]
+  }
+}

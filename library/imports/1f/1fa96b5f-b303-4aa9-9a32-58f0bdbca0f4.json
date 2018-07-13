@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuiyin",
+    "texture": "5c484418-10af-4b9f-92e6-a00d55053286",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      222,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      222,
+      19
+    ]
+  }
+}

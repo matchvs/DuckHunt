@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rightgun",
+    "texture": "9eca0691-9133-4fbb-942f-33225beee229",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      239
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      239
+    ]
+  }
+}

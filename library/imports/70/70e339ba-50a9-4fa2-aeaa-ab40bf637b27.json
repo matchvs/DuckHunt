@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet",
+    "texture": "d273edd8-d032-4e17-a3c3-5f5f64f32881",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      60
+    ]
+  }
+}

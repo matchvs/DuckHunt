@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rightscore",
+    "texture": "27ed7695-f968-4184-8880-ef6c9980802f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      27
+    ]
+  }
+}

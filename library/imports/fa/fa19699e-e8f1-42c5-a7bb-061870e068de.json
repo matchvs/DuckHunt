@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dazidan",
+    "texture": "2c717311-68d2-4d5f-911e-29e2054f3d35",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      92
+    ]
+  }
+}

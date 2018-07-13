@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "promptBox",
+    "texture": "a9e61cce-2938-4659-9e21-44ea598ac9a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      661,
+      241
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      661,
+      241
+    ]
+  }
+}

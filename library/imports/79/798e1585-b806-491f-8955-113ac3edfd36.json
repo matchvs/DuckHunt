@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yazi2",
+    "texture": "01e1f500-0654-489b-9d67-0d176ec9f983",
+    "atlas": "",
+    "rect": [
+      4,
+      16,
+      86,
+      106
+    ],
+    "offset": [
+      -9.5,
+      -8
+    ],
+    "originalSize": [
+      113,
+      122
+    ]
+  }
+}

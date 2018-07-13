@@ -1,0 +1,57 @@
+2018-07-09T04:00:55.407Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-09T04:00:55.412Z - normal: checking language setting...
+2018-07-09T04:00:55.412Z - normal: Language: zh
+2018-07-09T04:00:56.434Z - success: protocol editor-framework registered
+2018-07-09T04:00:56.435Z - success: protocol app registered
+2018-07-09T04:00:56.435Z - success: protocol theme registered
+2018-07-09T04:00:56.435Z - success: protocol packages registered
+2018-07-09T04:00:56.435Z - success: protocol unpack registerred
+2018-07-09T04:00:56.435Z - success: protocol disable-commonjs registerred
+2018-07-09T04:00:56.646Z - normal: connected!
+2018-07-09T04:00:56.649Z - normal: Check project /Users/mac/Documents/MatchVsGames/duckHunt
+2018-07-09T04:00:56.651Z - normal: Initializing Cocos2d
+2018-07-09T04:00:56.924Z - normal: Initializing Asset Database
+2018-07-09T04:00:56.960Z - success: protocol uuid registerred
+2018-07-09T04:00:56.960Z - success: protocol db registerred
+2018-07-09T04:00:56.960Z - success: protocol thumbnail registerred
+2018-07-09T04:00:56.960Z - normal: Loading editor/builtin packages
+2018-07-09T04:00:56.991Z - success: anysdk loaded
+2018-07-09T04:00:57.114Z - success: assets loaded
+2018-07-09T04:00:57.118Z - success: builder loaded
+2018-07-09T04:00:57.120Z - success: cocos-analytics loaded
+2018-07-09T04:00:57.124Z - success: console loaded
+2018-07-09T04:00:57.156Z - success: fb-instant-games loaded
+2018-07-09T04:00:57.161Z - success: hierarchy loaded
+2018-07-09T04:00:57.167Z - success: inspector loaded
+2018-07-09T04:00:57.169Z - success: keystore loaded
+2018-07-09T04:00:57.173Z - success: node-library loaded
+2018-07-09T04:00:57.175Z - success: package-asset loaded
+2018-07-09T04:00:57.177Z - success: preferences loaded
+2018-07-09T04:00:57.181Z - success: project-exporter loaded
+2018-07-09T04:00:57.199Z - success: project-importer loaded
+2018-07-09T04:00:57.203Z - success: project-settings loaded
+2018-07-09T04:00:57.212Z - success: ui-kit loaded
+2018-07-09T04:00:57.218Z - success: ui-grid loaded
+2018-07-09T04:00:57.222Z - success: scene loaded
+2018-07-09T04:00:57.224Z - success: sprite-editor loaded
+2018-07-09T04:00:57.227Z - success: store loaded
+2018-07-09T04:00:57.235Z - success: timeline loaded
+2018-07-09T04:00:57.235Z - normal: Loading builtin packages
+2018-07-09T04:00:57.240Z - success: asset-db-debugger loaded
+2018-07-09T04:00:57.241Z - success: color-picker loaded
+2018-07-09T04:00:57.248Z - success: package-manager loaded
+2018-07-09T04:00:57.249Z - success: qqplay-adapter loaded
+2018-07-09T04:00:57.256Z - success: sdkbox loaded
+2018-07-09T04:00:57.260Z - success: tester loaded
+2018-07-09T04:00:57.264Z - success: ui-kit-preview-extra loaded
+2018-07-09T04:00:57.269Z - success: ui-kit-preview loaded
+2018-07-09T04:00:57.273Z - success: ui-tree loaded
+2018-07-09T04:00:57.275Z - success: weapp-adapter loaded
+2018-07-09T04:00:58.312Z - normal: Initializing project /Users/mac/Documents/MatchVsGames/duckHunt
+2018-07-09T04:00:58.317Z - normal: Loading packages
+2018-07-09T04:00:58.335Z - success: plugin-matchvs loaded
+2018-07-09T04:00:58.335Z - normal: Watching packages
+2018-07-09T04:00:58.463Z - normal: Run Application
+2018-07-09T04:00:59.778Z - success: preview server running at http://localhost:7457
+2018-07-09T04:01:07.950Z - normal: 1.9.2
+2018-07-10T02:55:48.301Z - info: shutdown preview server
