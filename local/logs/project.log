@@ -357,3 +357,4 @@ uuid: "b1212c8a-abee-403f-a510-ef0da39e82f2"
 
 2018-07-27T03:44:11.279Z - normal: open IDE success
 
+2018-07-27T06:02:22.358Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/resources/data.meta
