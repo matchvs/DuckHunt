@@ -12,7 +12,7 @@ cc._RF.push(module, 'aeb5eGZwMxOIo9eEEeRZFov', 'DataFunc', __filename);
 
 window.dataFunc = {
     // 表格加载--
-    arrTables: ["sampleTemplate"],
+    arrTables: [],
     csvTables: {},
     csvTableForArr: {},
     tableCast: {},
@@ -288,6 +288,10 @@ dataFunc.loadConfigs = function (progressCb, callback) {
         },
 
         unsafeParse: function unsafeParse(text, opts, fn) {
+            if (!text.split) {
+                console.log("text split:" + text);
+                return true;
+            }
             var lines = text.split(opts.newline);
 
             if (opts.skip > 0) {

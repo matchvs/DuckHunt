@@ -59,11 +59,6 @@
     "meta": 1532615040062,
     "relativePath": "common/animation/tipAnim.anim"
   },
-  "aeb5e199-c0cc-4e22-8f5e-104791645a2f": {
-    "asset": 1532612878146,
-    "meta": 1532615041389,
-    "relativePath": "common/script/basic/DataFunc.js"
-  },
   "27c7b7dd-9207-4432-8610-af6a62b779de": {
     "asset": 1532612878148,
     "meta": 1532615041468,
@@ -340,8 +335,8 @@
     "relativePath": "common/animation/guide.anim"
   },
   "79146b76-f001-46c3-9f85-5e013f21b436": {
-    "asset": 1532655863842,
-    "meta": 1532655863874,
+    "asset": 1532662279420,
+    "meta": 1532662279497,
     "relativePath": "lobby.fire"
   },
   "fb886e5d-26a4-4067-b2b1-a943df50df0c": {
@@ -478,11 +473,6 @@
     "asset": 1532612878243,
     "meta": 1532612878243,
     "relativePath": "resources/data"
-  },
-  "ad3b4895-7499-46af-9eb8-af1a6ca863a9": {
-    "asset": 1532612878243,
-    "meta": 1532612878243,
-    "relativePath": "resources/data/sampleTemplate.csv"
   },
   "adbf90af-3692-4183-a908-1905cd1126e2": {
     "asset": 1532612878245,
@@ -1628,5 +1618,10 @@
     "asset": 1532657634725,
     "meta": 1532657810455,
     "relativePath": "common/script/uiRoom.js"
+  },
+  "aeb5e199-c0cc-4e22-8f5e-104791645a2f": {
+    "asset": 1532663749411,
+    "meta": 1532663754674,
+    "relativePath": "common/script/basic/DataFunc.js"
   }
 }
