@@ -1,7 +1,7 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "logo",
+    "name": "duckHuntLogo",
     "texture": "f6ab3fe6-3848-43f1-969b-d48eff2a3dc5",
     "atlas": "",
     "rect": [

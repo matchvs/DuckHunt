@@ -116,6 +116,7 @@ cc.Class({
 
     quit: function() {
         mvs.engine.leaveRoom("");
+        GLB.MAX_PLAYER_COUNT = 3;
     },
 
     startGame: function() {

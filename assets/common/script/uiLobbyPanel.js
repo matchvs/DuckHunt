@@ -138,6 +138,6 @@ cc.Class({
     },
 
     inviteFriend: function() {
-        wx.shareAppMessage();
+        wx.shareAppMessage({imageUrl: "https://data.tianziyou.com/matchvsGamesRes/logo/duckHuntLogo.png"});
     }
 });
