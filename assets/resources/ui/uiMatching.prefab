@@ -536,7 +536,7 @@
       }
     ],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 18
@@ -562,8 +562,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 224,
-      "height": 198
+      "width": 170,
+      "height": 170
     },
     "_rotationX": 0,
     "_rotationY": 0,
