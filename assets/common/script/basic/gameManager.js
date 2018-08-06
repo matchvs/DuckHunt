@@ -36,7 +36,8 @@ cc.Class({
                     });
                 }
             })
-        } catch(e) { }
+        } catch (e) {
+        }
     },
 
     leaveRoom: function(data) {
@@ -93,7 +94,7 @@ cc.Class({
 
     startGame: function() {
         this.readyCnt = 0;
-        this.gameState = GameState.None;
+        this.gameState = GameState.Pause;
         cc.director.loadScene('game', function() {
             uiFunc.openUI("uiGamePanel", function() {
                 this.sendReadyMsg();
@@ -318,6 +319,7 @@ cc.Class({
     },
 
     lobbyShow: function() {
+        this.gameState = GameState.None;
         if (cc.Canvas.instance.designResolution.height > cc.Canvas.instance.designResolution.width) {
             uiFunc.openUI("uiLobbyPanelVer");
         } else {
@@ -438,7 +440,7 @@ cc.Class({
                     time: time
                 };
                 Game.GameManager.sendEventEx(msg);
-                if (time < 0 || this.gameState === GameState.Over) {
+                if (time < 0 || this.gameState === GameState.Over || this.gameState === GameState.None) {
                     clearInterval(this.timeId);
                     var msg = {
                         action: GLB.GAME_OVER_EVENT,
@@ -446,7 +448,7 @@ cc.Class({
                     Game.GameManager.sendEventEx(msg);
                 }
             } else {
-                if (self.gameTime < 0 || this.gameState === GameState.Over) {
+                if (self.gameTime < 0 || this.gameState === GameState.Over || this.gameState === GameState.None) {
                     clearInterval(this.timeId);
                 }
             }
@@ -471,6 +473,9 @@ cc.Class({
     loginServer: function() {
         if (!this.network.isConnected()) {
             this.network.connect(GLB.IP, GLB.PORT, function() {
+                    if (!this.network.isOpen()) {
+                        return;
+                    }
                     this.network.send("connector.entryHandler.login", {
                         "account": GLB.userInfo.id + "",
                         "channel": "0",

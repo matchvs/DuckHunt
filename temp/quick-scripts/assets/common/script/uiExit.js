@@ -28,7 +28,6 @@ cc.Class({
         }
         uiFunc.closeUI(this.node.name);
         this.node.destroy();
-
         Game.GameManager.lobbyShow();
     }
 });
