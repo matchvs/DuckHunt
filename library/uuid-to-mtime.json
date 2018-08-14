@@ -149,11 +149,6 @@
     "meta": 1533976960789,
     "relativePath": "common/script/uiCreateRoom.js"
   },
-  "fb82de52-affd-499d-96de-2bfafcba2fed": {
-    "asset": 1533976719402,
-    "meta": 1533976960882,
-    "relativePath": "common/script/uiLogin.js"
-  },
   "a8513bdd-1a54-457c-92ab-e33439b9df7b": {
     "asset": 1533976719403,
     "meta": 1533976960917,
@@ -320,8 +315,8 @@
     "relativePath": "common/animation/guide.anim"
   },
   "79146b76-f001-46c3-9f85-5e013f21b436": {
-    "asset": 1533976719424,
-    "meta": 1533976961372,
+    "asset": 1534232439486,
+    "meta": 1534232439507,
     "relativePath": "lobby.fire"
   },
   "fb886e5d-26a4-4067-b2b1-a943df50df0c": {
@@ -1195,8 +1190,8 @@
     "relativePath": "resources/ui/uiLogin.prefab"
   },
   "8d844406-e950-4f57-a78d-c89587ed7d0d": {
-    "asset": 1533976719508,
-    "meta": 1533976962319,
+    "asset": 1534230846178,
+    "meta": 1534230846187,
     "relativePath": "resources/ui/uiMaskLayout.prefab"
   },
   "d730e538-0629-44a9-9799-145e4d3a39a3": {
@@ -1215,8 +1210,8 @@
     "relativePath": "resources/ui/uiMatching2v2.prefab"
   },
   "4227759d-1777-4c3f-bfac-9dc323bb5cf7": {
-    "asset": 1533976719510,
-    "meta": 1533976962328,
+    "asset": 1534232627069,
+    "meta": 1534232627093,
     "relativePath": "resources/ui/uiRankPanelVer.prefab"
   },
   "4a755aab-5a3b-4fcd-b8c6-26118fd8cfc9": {
@@ -1398,11 +1393,6 @@
     "asset": 1533976719606,
     "meta": 1533976959119,
     "relativePath": "matchvs.all.js"
-  },
-  "a5e20086-6ca8-40c7-9197-826b20c4f9bf": {
-    "asset": 1533976719402,
-    "meta": 1533976960869,
-    "relativePath": "common/script/uiLobbyPanel.js"
   },
   "72f2fd5c-6066-4e84-8672-aaf7affab5b2": {
     "asset": 1533976719405,
@@ -1614,9 +1604,29 @@
     "meta": 1534216765444,
     "relativePath": "prefab/webview.prefab"
   },
+  "6d84d21c-ad1d-43cf-88a1-390709e31e11": {
+    "asset": 1534230810280,
+    "meta": 1534230814296,
+    "relativePath": "common/script/uiMask.js"
+  },
+  "24a7c15d-2b25-44e1-9d07-d7b5bcd8d527": {
+    "asset": 1534230853559,
+    "meta": 1534230853562,
+    "relativePath": "resources/ui/uiMask.prefab"
+  },
+  "fb82de52-affd-499d-96de-2bfafcba2fed": {
+    "asset": 1534231393598,
+    "meta": 1534231615125,
+    "relativePath": "common/script/uiLogin.js"
+  },
   "71bef84c-8ce6-4b2b-8910-a8e638c8d999": {
-    "asset": 1534216857208,
-    "meta": 1534216858858,
+    "asset": 1534232537062,
+    "meta": 1534232539257,
     "relativePath": "common/script/basic/gameManager.js"
+  },
+  "a5e20086-6ca8-40c7-9197-826b20c4f9bf": {
+    "asset": 1534232714879,
+    "meta": 1534232764275,
+    "relativePath": "common/script/uiLobbyPanel.js"
   }
 }

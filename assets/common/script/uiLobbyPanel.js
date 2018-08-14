@@ -38,6 +38,7 @@ cc.Class({
     },
 
     rank: function() {
+        Game.GameManager.blockInput();
         if (!Game.GameManager.network.isConnected()) {
             Game.GameManager.network.connect(GLB.IP, GLB.PORT, function() {
                     Game.GameManager.network.send("connector.entryHandler.login", {
@@ -74,6 +75,7 @@ cc.Class({
     },
 
     randomRoom: function() {
+        Game.GameManager.blockInput();
         GLB.matchType = GLB.RANDOM_MATCH; // 修改匹配方式为随机匹配
         console.log('开始随机匹配');
         if (GLB.gameType === GLB.COOPERATION) {
@@ -122,6 +124,7 @@ cc.Class({
     },
 
     createRoom: function() {
+        Game.GameManager.blockInput();
         if (cc.Canvas.instance.designResolution.height > cc.Canvas.instance.designResolution.width) {
             uiFunc.openUI("uiCreateRoomVer");
         } else {
@@ -138,6 +141,8 @@ cc.Class({
     },
 
     inviteFriend: function() {
-        wx.shareAppMessage({imageUrl: "https://data.tianziyou.com/matchvsGamesRes/logo/duckHuntLogo.png"});
+        if(window.wx) {
+            wx.shareAppMessage({imageUrl: "https://data.tianziyou.com/matchvsGamesRes/logo/duckHuntLogo.png"});
+        }
     }
 });
