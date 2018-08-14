@@ -1,494 +1,56 @@
-2018-08-06T11:17:25.671Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-06T11:17:25.675Z - normal: checking language setting...
-2018-08-06T11:17:25.675Z - normal: Language: zh
-2018-08-06T11:17:27.467Z - success: protocol editor-framework registered
-2018-08-06T11:17:27.468Z - success: protocol app registered
-2018-08-06T11:17:27.468Z - success: protocol theme registered
-2018-08-06T11:17:27.468Z - success: protocol packages registered
-2018-08-06T11:17:27.469Z - success: protocol unpack registerred
-2018-08-06T11:17:27.470Z - success: protocol disable-commonjs registerred
-2018-08-06T11:17:27.679Z - normal: connected!
-2018-08-06T11:17:27.683Z - normal: Check project /Users/chenhao/matchvs/DuckHunt/DuckHunt
-2018-08-06T11:17:27.685Z - normal: Initializing Cocos2d
-2018-08-06T11:17:28.134Z - normal: Initializing Asset Database
-2018-08-06T11:17:28.202Z - success: protocol uuid registerred
-2018-08-06T11:17:28.202Z - success: protocol db registerred
-2018-08-06T11:17:28.202Z - success: protocol thumbnail registerred
-2018-08-06T11:17:28.202Z - normal: Loading editor/builtin packages
-2018-08-06T11:17:28.247Z - success: anysdk loaded
-2018-08-06T11:17:28.468Z - success: assets loaded
-2018-08-06T11:17:28.474Z - success: builder loaded
-2018-08-06T11:17:28.479Z - success: cocos-analytics loaded
-2018-08-06T11:17:28.487Z - success: console loaded
-2018-08-06T11:17:28.537Z - success: fb-instant-games loaded
-2018-08-06T11:17:28.545Z - success: hierarchy loaded
-2018-08-06T11:17:28.554Z - success: inspector loaded
-2018-08-06T11:17:28.557Z - success: keystore loaded
-2018-08-06T11:17:28.566Z - success: node-library loaded
-2018-08-06T11:17:28.569Z - success: package-asset loaded
-2018-08-06T11:17:28.573Z - success: preferences loaded
-2018-08-06T11:17:28.578Z - success: project-exporter loaded
-2018-08-06T11:17:28.607Z - success: project-importer loaded
-2018-08-06T11:17:28.613Z - success: project-settings loaded
-2018-08-06T11:17:28.619Z - success: ui-kit loaded
-2018-08-06T11:17:28.628Z - success: ui-grid loaded
-2018-08-06T11:17:28.637Z - success: scene loaded
-2018-08-06T11:17:28.639Z - success: sprite-editor loaded
-2018-08-06T11:17:28.648Z - success: store loaded
-2018-08-06T11:17:28.660Z - success: timeline loaded
-2018-08-06T11:17:28.661Z - normal: Loading builtin packages
-2018-08-06T11:17:28.673Z - success: asset-db-debugger loaded
-2018-08-06T11:17:28.675Z - success: color-picker loaded
-2018-08-06T11:17:28.684Z - success: package-manager loaded
-2018-08-06T11:17:28.686Z - success: qqplay-adapter loaded
-2018-08-06T11:17:28.790Z - success: sdkbox loaded
-2018-08-06T11:17:28.801Z - normal: last time update is in one day
-2018-08-06T11:17:28.802Z - success: tester loaded
-2018-08-06T11:17:28.811Z - success: ui-kit-preview-extra loaded
-2018-08-06T11:17:28.821Z - success: ui-kit-preview loaded
-2018-08-06T11:17:28.827Z - success: ui-tree loaded
-2018-08-06T11:17:28.830Z - success: weapp-adapter loaded
-2018-08-06T11:17:30.716Z - normal: Initializing project /Users/chenhao/matchvs/DuckHunt/DuckHunt
-2018-08-06T11:17:30.720Z - normal: Loading packages
-2018-08-06T11:17:30.742Z - success: plugin-matchvs loaded
-2018-08-06T11:17:30.743Z - normal: Watching packages
-2018-08-06T11:17:30.930Z - normal: Run Application
-2018-08-06T11:17:33.261Z - success: preview server running at http://localhost:7456
-2018-08-06T11:17:43.964Z - normal: 1.9.3
-2018-08-06T11:18:02.561Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-08-06T11:18:02.563Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-08-06T11:18:03.905Z - normal: Initializing...
-
-2018-08-06T11:18:03.921Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-08-06T11:18:03.950Z - normal: starting ide...
-
-2018-08-06T11:18:09.731Z - normal: IDE server has started, listening on http://127.0.0.1:50010
-
-2018-08-06T11:18:09.743Z - normal: initialization finished
-
-2018-08-06T11:18:10.235Z - error: StatusCodeError: 400 - "{\"code\":40000,\"error\":\"错误 需要重新登录\"}"
-
-    at Socket.<anonymous> (/Applications/CocosCreator 1.9.3.app/Contents/Resources/app.asar/editor/core/wechat-game.js:1:1302)
-    at emitOne (events.js:96:13)
-    at Socket.emit (events.js:191:7)
-    at readableAddChunk (_stream_readable.js:178:18)
-    at Socket.Readable.push (_stream_readable.js:136:10)
-    at Pipe.onread (net.js:560:20)
-2018-08-06T11:27:25.758Z - normal: Start building with options : {
-  "androidStudio": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build",
-  "debug": false,
-  "dest": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame",
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeEruda": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": true,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.DuckHunt",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "79146b76-f001-46c3-9f85-5e013f21b436",
-    "117c424d-e9a8-4789-bdd9-05fb745695e1"
-  ],
-  "sourceMaps": false,
-  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
-  "template": "link",
-  "title": "duckHunt",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "landscape",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/duckhunt",
-    "appid": "wx793199d0ca521154",
-    "orientation": "landscape"
-  },
-  "xxteaKey": "a15e5bec-8ac1-4f",
-  "zipCompressJs": true,
-  "project": "/Users/chenhao/matchvs/DuckHunt/DuckHunt",
-  "projectName": "duckHunt",
-  "debugBuildWorker": false
-}
-2018-08-06T11:27:25.767Z - normal: Building /Users/chenhao/matchvs/DuckHunt/DuckHunt
-2018-08-06T11:27:25.767Z - normal: Destination /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame
-2018-08-06T11:27:26.669Z - normal: Delete /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame/**/*
-2018-08-06T11:29:17.360Z - normal: Compiled project javascript file successfully
-2018-08-06T11:29:17.370Z - normal: Start building assets
-2018-08-06T11:29:17.371Z - normal: Start spawn build-worker
-2018-08-06T11:29:18.531Z - normal: Finish spawn build-worker
-2018-08-06T11:29:18.531Z - normal: Start init build-worker
-2018-08-06T11:29:26.273Z - normal: 1.9.3
-2018-08-06T11:29:27.527Z - normal: Finish init build-worker
-2018-08-06T11:29:27.529Z - normal: Start build-assets in worker
-2018-08-06T11:29:29.367Z - warn: Script attached to "uiVsResultVer" in prefab "uiVsResultVer.prefab" is missing or invalid. Detailed information:
-Node path: "uiVsResultVer"
-Asset url: "db://assets/resources/ui/uiVsResultVer.prefab"
-Script UUID: "8617ae07-aaa7-4a37-bb74-028e36621282"
-Class ID: "8617a4HqqdKN7t0Ao42YhKC"
-
-2018-08-06T11:29:29.743Z - warn: The referenced asset used in "db://assets/resources/ui/uiVsResultVer.prefab" is not found, it may have been deleted. Detailed information:
-Node path: "uiVsResultVer/sr-con-bg"
-Used in Component: "cc.Sprite"
-uuid: "b1212c8a-abee-403f-a510-ef0da39e82f2"
-2018-08-06T11:29:31.501Z - normal: Finish build-assets in worker
-2018-08-06T11:29:31.506Z - normal: Finish building assets
-2018-08-06T11:29:31.601Z - normal: Start building raw assets
-2018-08-06T11:29:31.604Z - normal: Start building plugin scripts
-2018-08-06T11:29:38.230Z - normal: Finish building plugin scripts
-2018-08-06T11:29:38.681Z - normal: Finish building raw assets
-2018-08-06T11:29:38.727Z - normal: Generating main.js from /Applications/CocosCreator 1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
-2018-08-06T11:29:41.507Z - normal: Built to "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame" successfully
-2018-08-06T11:35:13.271Z - normal: Start building with options : {
-  "androidStudio": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build",
-  "debug": false,
-  "dest": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame",
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeEruda": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": true,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.DuckHunt",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "79146b76-f001-46c3-9f85-5e013f21b436",
-    "117c424d-e9a8-4789-bdd9-05fb745695e1"
-  ],
-  "sourceMaps": false,
-  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
-  "template": "link",
-  "title": "duckHunt",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "landscape",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/duckhunt",
-    "appid": "wx793199d0ca521154",
-    "orientation": "landscape"
-  },
-  "xxteaKey": "a15e5bec-8ac1-4f",
-  "zipCompressJs": true,
-  "project": "/Users/chenhao/matchvs/DuckHunt/DuckHunt",
-  "projectName": "duckHunt",
-  "debugBuildWorker": false
-}
-2018-08-06T11:35:13.286Z - normal: Building /Users/chenhao/matchvs/DuckHunt/DuckHunt
-2018-08-06T11:35:13.286Z - normal: Destination /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame
-2018-08-06T11:35:13.288Z - normal: Delete /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame/**/*
-2018-08-06T11:35:32.277Z - normal: Compiled project javascript file successfully
-2018-08-06T11:35:32.280Z - normal: Start building assets
-2018-08-06T11:35:32.280Z - normal: Start spawn build-worker
-2018-08-06T11:35:33.494Z - normal: Finish spawn build-worker
-2018-08-06T11:35:33.494Z - normal: Start init build-worker
-2018-08-06T11:35:37.980Z - normal: 1.9.3
-2018-08-06T11:35:38.529Z - normal: Finish init build-worker
-2018-08-06T11:35:38.530Z - normal: Start build-assets in worker
-2018-08-06T11:35:39.958Z - warn: Script attached to "uiVsResultVer" in prefab "uiVsResultVer.prefab" is missing or invalid. Detailed information:
-Node path: "uiVsResultVer"
-Asset url: "db://assets/resources/ui/uiVsResultVer.prefab"
-Script UUID: "8617ae07-aaa7-4a37-bb74-028e36621282"
-Class ID: "8617a4HqqdKN7t0Ao42YhKC"
-
-2018-08-06T11:35:40.194Z - warn: The referenced asset used in "db://assets/resources/ui/uiVsResultVer.prefab" is not found, it may have been deleted. Detailed information:
-Node path: "uiVsResultVer/sr-con-bg"
-Used in Component: "cc.Sprite"
-uuid: "b1212c8a-abee-403f-a510-ef0da39e82f2"
-2018-08-06T11:35:41.669Z - normal: Finish build-assets in worker
-2018-08-06T11:35:41.677Z - normal: Finish building assets
-2018-08-06T11:35:41.773Z - normal: Start building raw assets
-2018-08-06T11:35:41.775Z - normal: Start building plugin scripts
-2018-08-06T11:35:44.878Z - normal: Finish building plugin scripts
-2018-08-06T11:35:45.151Z - normal: Finish building raw assets
-2018-08-06T11:35:45.167Z - normal: Generating main.js from /Applications/CocosCreator 1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
-2018-08-06T11:35:46.749Z - normal: Built to "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame" successfully
-2018-08-06T11:36:14.893Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-08-06T11:36:14.895Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-08-06T11:36:15.833Z - normal: Initializing...
-
-2018-08-06T11:36:15.846Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-08-06T11:36:15.926Z - normal: IDE server has started, listening on http://127.0.0.1:50010
-
-2018-08-06T11:36:15.926Z - normal: initialization finished
-
-2018-08-06T11:36:16.327Z - normal: open IDE success
-
-2018-08-06T11:36:56.069Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-08-06T11:36:56.071Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-08-06T11:36:57.296Z - normal: Initializing...
-
-2018-08-06T11:36:57.311Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-08-06T11:36:57.396Z - normal: IDE server has started, listening on http://127.0.0.1:50010
-
-2018-08-06T11:36:57.397Z - normal: initialization finished
-
-2018-08-06T11:36:57.576Z - normal: open IDE success
-
-2018-08-06T11:38:03.197Z - normal: Start building with options : {
-  "androidStudio": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build",
-  "debug": false,
-  "dest": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame",
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeEruda": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": true,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.DuckHunt",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "79146b76-f001-46c3-9f85-5e013f21b436",
-    "117c424d-e9a8-4789-bdd9-05fb745695e1"
-  ],
-  "sourceMaps": false,
-  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
-  "template": "link",
-  "title": "duckHunt",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "landscape",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/duckhunt",
-    "appid": "wx793199d0ca521154",
-    "orientation": "landscape"
-  },
-  "xxteaKey": "a15e5bec-8ac1-4f",
-  "zipCompressJs": true,
-  "project": "/Users/chenhao/matchvs/DuckHunt/DuckHunt",
-  "projectName": "duckHunt",
-  "debugBuildWorker": false
-}
-2018-08-06T11:38:03.226Z - normal: Building /Users/chenhao/matchvs/DuckHunt/DuckHunt
-2018-08-06T11:38:03.226Z - normal: Destination /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame
-2018-08-06T11:38:03.235Z - normal: Delete /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame/**/*
-2018-08-06T11:38:32.886Z - normal: Compiled project javascript file successfully
-2018-08-06T11:38:32.888Z - normal: Start building assets
-2018-08-06T11:38:32.892Z - normal: Start spawn build-worker
-2018-08-06T11:38:34.982Z - normal: Finish spawn build-worker
-2018-08-06T11:38:34.982Z - normal: Start init build-worker
-2018-08-06T11:38:39.891Z - normal: 1.9.3
-2018-08-06T11:38:40.386Z - normal: Finish init build-worker
-2018-08-06T11:38:40.387Z - normal: Start build-assets in worker
-2018-08-06T11:38:41.629Z - warn: Script attached to "uiVsResultVer" in prefab "uiVsResultVer.prefab" is missing or invalid. Detailed information:
-Node path: "uiVsResultVer"
-Asset url: "db://assets/resources/ui/uiVsResultVer.prefab"
-Script UUID: "8617ae07-aaa7-4a37-bb74-028e36621282"
-Class ID: "8617a4HqqdKN7t0Ao42YhKC"
-
-2018-08-06T11:38:41.781Z - warn: The referenced asset used in "db://assets/resources/ui/uiVsResultVer.prefab" is not found, it may have been deleted. Detailed information:
-Node path: "uiVsResultVer/sr-con-bg"
-Used in Component: "cc.Sprite"
-uuid: "b1212c8a-abee-403f-a510-ef0da39e82f2"
-2018-08-06T11:38:43.156Z - normal: Finish build-assets in worker
-2018-08-06T11:38:43.169Z - normal: Finish building assets
-2018-08-06T11:38:43.264Z - normal: Start building raw assets
-2018-08-06T11:38:43.266Z - normal: Start building plugin scripts
-2018-08-06T11:38:46.233Z - normal: Finish building plugin scripts
-2018-08-06T11:38:47.148Z - normal: Finish building raw assets
-2018-08-06T11:38:47.157Z - normal: Generating main.js from /Applications/CocosCreator 1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
-2018-08-06T11:38:48.886Z - normal: Built to "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame" successfully
-2018-08-06T11:38:50.235Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-08-06T11:38:50.236Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-08-06T11:38:51.233Z - normal: Initializing...
-
-2018-08-06T11:38:51.243Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-08-06T11:38:51.277Z - normal: IDE server has started, listening on http://127.0.0.1:50010
-initialization finished
-
-2018-08-06T11:38:51.711Z - normal: open IDE success
-
-2018-08-06T11:43:54.988Z - error: TypeError: Cannot read property 'dirty' of undefined
-    at Object.Editor.Ipc.sendToPanel [as callback] (eval at _evaluateAndCacheScript (/Applications/CocosCreator 1.9.3.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/resource-mgr.js:1:1), <anonymous>:1:14907)
-    at setTimeout (/Applications/CocosCreator 1.9.3.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:324)
-2018-08-06T11:44:18.622Z - normal: Start building with options : {
-  "androidStudio": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build",
-  "debug": false,
-  "dest": "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame",
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeEruda": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": true,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.DuckHunt",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "79146b76-f001-46c3-9f85-5e013f21b436",
-    "117c424d-e9a8-4789-bdd9-05fb745695e1"
-  ],
-  "sourceMaps": false,
-  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
-  "template": "link",
-  "title": "duckHunt",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "landscape",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/duckhunt",
-    "appid": "wx793199d0ca521154",
-    "orientation": "landscape"
-  },
-  "xxteaKey": "a15e5bec-8ac1-4f",
-  "zipCompressJs": true,
-  "project": "/Users/chenhao/matchvs/DuckHunt/DuckHunt",
-  "projectName": "duckHunt",
-  "debugBuildWorker": false
-}
-2018-08-06T11:44:18.652Z - normal: Building /Users/chenhao/matchvs/DuckHunt/DuckHunt
-2018-08-06T11:44:18.654Z - normal: Destination /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame
-2018-08-06T11:44:18.656Z - normal: Delete /Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame/**/*
-2018-08-06T11:44:42.130Z - normal: Compiled project javascript file successfully
-2018-08-06T11:44:42.133Z - normal: Start building assets
-2018-08-06T11:44:42.133Z - normal: Start spawn build-worker
-2018-08-06T11:44:43.306Z - normal: Finish spawn build-worker
-2018-08-06T11:44:43.306Z - normal: Start init build-worker
-2018-08-06T11:44:47.461Z - normal: 1.9.3
-2018-08-06T11:44:47.971Z - normal: Finish init build-worker
-2018-08-06T11:44:47.971Z - normal: Start build-assets in worker
-2018-08-06T11:44:49.236Z - warn: Script attached to "uiVsResultVer" in prefab "uiVsResultVer.prefab" is missing or invalid. Detailed information:
-Node path: "uiVsResultVer"
-Asset url: "db://assets/resources/ui/uiVsResultVer.prefab"
-Script UUID: "8617ae07-aaa7-4a37-bb74-028e36621282"
-Class ID: "8617a4HqqdKN7t0Ao42YhKC"
-
-2018-08-06T11:44:49.452Z - warn: The referenced asset used in "db://assets/resources/ui/uiVsResultVer.prefab" is not found, it may have been deleted. Detailed information:
-Node path: "uiVsResultVer/sr-con-bg"
-Used in Component: "cc.Sprite"
-uuid: "b1212c8a-abee-403f-a510-ef0da39e82f2"
-2018-08-06T11:44:51.004Z - normal: Finish build-assets in worker
-2018-08-06T11:44:51.016Z - normal: Finish building assets
-2018-08-06T11:44:51.121Z - normal: Start building raw assets
-2018-08-06T11:44:51.123Z - normal: Start building plugin scripts
-2018-08-06T11:44:55.590Z - normal: Finish building plugin scripts
-2018-08-06T11:44:55.864Z - normal: Finish building raw assets
-2018-08-06T11:44:55.875Z - normal: Generating main.js from /Applications/CocosCreator 1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
-2018-08-06T11:44:57.809Z - normal: Built to "/Users/chenhao/matchvs/DuckHunt/DuckHunt/build/wechatgame" successfully
-2018-08-06T11:45:22.629Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-08-06T11:45:22.630Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-08-06T11:45:23.543Z - normal: Initializing...
-
-2018-08-06T11:45:23.552Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-08-06T11:45:23.585Z - normal: IDE server has started, listening on http://127.0.0.1:50010
-
-2018-08-06T11:45:23.586Z - normal: initialization finished
-
-2018-08-06T11:45:23.918Z - normal: open IDE success
-
-2018-08-06T11:45:48.339Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-08-06T11:45:48.340Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-08-06T11:45:49.270Z - normal: Initializing...
-
-2018-08-06T11:45:49.279Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-08-06T11:45:49.320Z - normal: IDE server has started, listening on http://127.0.0.1:50010
-initialization finished
-
-2018-08-06T11:45:49.512Z - normal: open IDE success
-
+2018-08-14T03:19:22.830Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-14T03:19:22.834Z - normal: checking language setting...
+2018-08-14T03:19:22.834Z - normal: Language: zh
+2018-08-14T03:19:23.494Z - success: protocol editor-framework registered
+2018-08-14T03:19:23.495Z - success: protocol app registered
+2018-08-14T03:19:23.495Z - success: protocol theme registered
+2018-08-14T03:19:23.495Z - success: protocol packages registered
+2018-08-14T03:19:23.495Z - success: protocol unpack registerred
+2018-08-14T03:19:23.495Z - success: protocol disable-commonjs registerred
+2018-08-14T03:19:23.695Z - normal: connected!
+2018-08-14T03:19:23.697Z - normal: Check project /Users/mac/MatchVsGithub/DuckHunt/DuckHunt
+2018-08-14T03:19:23.699Z - normal: Initializing Cocos2d
+2018-08-14T03:19:23.890Z - normal: Initializing Asset Database
+2018-08-14T03:19:23.920Z - success: protocol uuid registerred
+2018-08-14T03:19:23.921Z - success: protocol db registerred
+2018-08-14T03:19:23.921Z - success: protocol thumbnail registerred
+2018-08-14T03:19:23.921Z - normal: Loading editor/builtin packages
+2018-08-14T03:19:23.937Z - success: anysdk loaded
+2018-08-14T03:19:24.037Z - success: assets loaded
+2018-08-14T03:19:24.040Z - success: builder loaded
+2018-08-14T03:19:24.042Z - success: cocos-analytics loaded
+2018-08-14T03:19:24.046Z - success: console loaded
+2018-08-14T03:19:24.074Z - success: fb-instant-games loaded
+2018-08-14T03:19:24.077Z - success: hierarchy loaded
+2018-08-14T03:19:24.081Z - success: inspector loaded
+2018-08-14T03:19:24.083Z - success: keystore loaded
+2018-08-14T03:19:24.086Z - success: node-library loaded
+2018-08-14T03:19:24.088Z - success: package-asset loaded
+2018-08-14T03:19:24.090Z - success: preferences loaded
+2018-08-14T03:19:24.092Z - success: project-exporter loaded
+2018-08-14T03:19:24.106Z - success: project-importer loaded
+2018-08-14T03:19:24.109Z - success: project-settings loaded
+2018-08-14T03:19:24.112Z - success: ui-kit loaded
+2018-08-14T03:19:24.116Z - success: ui-grid loaded
+2018-08-14T03:19:24.120Z - success: scene loaded
+2018-08-14T03:19:24.121Z - success: sprite-editor loaded
+2018-08-14T03:19:24.124Z - success: store loaded
+2018-08-14T03:19:24.129Z - success: timeline loaded
+2018-08-14T03:19:24.130Z - normal: Loading builtin packages
+2018-08-14T03:19:24.133Z - success: asset-db-debugger loaded
+2018-08-14T03:19:24.134Z - success: color-picker loaded
+2018-08-14T03:19:24.138Z - success: package-manager loaded
+2018-08-14T03:19:24.139Z - success: qqplay-adapter loaded
+2018-08-14T03:19:24.145Z - success: sdkbox loaded
+2018-08-14T03:19:24.149Z - success: tester loaded
+2018-08-14T03:19:24.153Z - success: ui-kit-preview-extra loaded
+2018-08-14T03:19:24.156Z - success: ui-kit-preview loaded
+2018-08-14T03:19:24.159Z - success: ui-tree loaded
+2018-08-14T03:19:24.161Z - success: weapp-adapter loaded
+2018-08-14T03:19:24.979Z - normal: Initializing project /Users/mac/MatchVsGithub/DuckHunt/DuckHunt
+2018-08-14T03:19:24.982Z - normal: Loading packages
+2018-08-14T03:19:24.994Z - success: plugin-matchvs loaded
+2018-08-14T03:19:24.994Z - normal: Watching packages
+2018-08-14T03:19:25.096Z - normal: Run Application
+2018-08-14T03:19:26.023Z - success: preview server running at http://localhost:7456
+2018-08-14T03:19:32.011Z - normal: 1.9.3

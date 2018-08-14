@@ -423,7 +423,9 @@ cc.Class({
                     var cpProto = JSON.parse(info.cpProto);
                     if (Game.PlayerManager) {
                         var player = Game.PlayerManager.getPlayerByUserId(info.srcUserID);
-                        player.setRotation(cpProto.rotation);
+                        if (player) {
+                            player.setRotation(cpProto.rotation);
+                        }
                     }
                 }
             }
