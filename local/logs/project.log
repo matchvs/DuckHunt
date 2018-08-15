@@ -1,62 +1,56 @@
-2018-08-15T02:19:02.806Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-15T02:19:02.811Z - normal: checking language setting...
-2018-08-15T02:19:02.812Z - normal: Language: zh
-2018-08-15T02:19:03.852Z - success: protocol editor-framework registered
-2018-08-15T02:19:03.852Z - success: protocol app registered
-2018-08-15T02:19:03.852Z - success: protocol theme registered
-2018-08-15T02:19:03.852Z - success: protocol packages registered
-2018-08-15T02:19:03.853Z - success: protocol unpack registerred
-2018-08-15T02:19:03.853Z - success: protocol disable-commonjs registerred
-2018-08-15T02:19:04.091Z - normal: connected!
-2018-08-15T02:19:04.093Z - normal: Check project /Users/mac/MatchVsGithub/DuckHunt/DuckHunt
-2018-08-15T02:19:04.094Z - normal: Initializing Cocos2d
-2018-08-15T02:19:04.357Z - normal: Initializing Asset Database
-2018-08-15T02:19:04.389Z - success: protocol uuid registerred
-2018-08-15T02:19:04.389Z - success: protocol db registerred
-2018-08-15T02:19:04.389Z - success: protocol thumbnail registerred
-2018-08-15T02:19:04.389Z - normal: Loading editor/builtin packages
-2018-08-15T02:19:04.416Z - success: anysdk loaded
-2018-08-15T02:19:04.536Z - success: assets loaded
-2018-08-15T02:19:04.541Z - success: builder loaded
-2018-08-15T02:19:04.543Z - success: cocos-analytics loaded
-2018-08-15T02:19:04.562Z - success: console loaded
-2018-08-15T02:19:04.608Z - success: fb-instant-games loaded
-2018-08-15T02:19:04.616Z - success: hierarchy loaded
-2018-08-15T02:19:04.621Z - success: inspector loaded
-2018-08-15T02:19:04.623Z - success: keystore loaded
-2018-08-15T02:19:04.627Z - success: node-library loaded
-2018-08-15T02:19:04.629Z - success: package-asset loaded
-2018-08-15T02:19:04.631Z - success: preferences loaded
-2018-08-15T02:19:04.634Z - success: project-exporter loaded
-2018-08-15T02:19:04.651Z - success: project-importer loaded
-2018-08-15T02:19:04.654Z - success: project-settings loaded
-2018-08-15T02:19:04.658Z - success: ui-kit loaded
-2018-08-15T02:19:04.663Z - success: ui-grid loaded
-2018-08-15T02:19:04.668Z - success: scene loaded
-2018-08-15T02:19:04.670Z - success: sprite-editor loaded
-2018-08-15T02:19:04.675Z - success: store loaded
-2018-08-15T02:19:04.684Z - success: timeline loaded
-2018-08-15T02:19:04.684Z - normal: Loading builtin packages
-2018-08-15T02:19:04.689Z - success: asset-db-debugger loaded
-2018-08-15T02:19:04.689Z - success: color-picker loaded
-2018-08-15T02:19:04.693Z - success: package-manager loaded
-2018-08-15T02:19:04.694Z - success: qqplay-adapter loaded
-2018-08-15T02:19:04.703Z - success: sdkbox loaded
-2018-08-15T02:19:04.708Z - success: tester loaded
-2018-08-15T02:19:04.717Z - success: ui-kit-preview-extra loaded
-2018-08-15T02:19:04.721Z - success: ui-kit-preview loaded
-2018-08-15T02:19:04.724Z - success: ui-tree loaded
-2018-08-15T02:19:04.725Z - success: weapp-adapter loaded
-2018-08-15T02:19:06.077Z - normal: Initializing project /Users/mac/MatchVsGithub/DuckHunt/DuckHunt
-2018-08-15T02:19:06.081Z - normal: Loading packages
-2018-08-15T02:19:06.095Z - success: plugin-matchvs loaded
-2018-08-15T02:19:06.095Z - normal: Watching packages
-2018-08-15T02:19:06.231Z - normal: Run Application
-2018-08-15T02:19:08.189Z - success: preview server running at http://localhost:7463
-2018-08-15T02:19:21.332Z - normal: 1.9.3
-2018-08-15T02:48:09.958Z - error: TypeError: Cannot read property '_userId' of undefined
-    at HTMLElement.updateItemID (packages://ui-tree/widget/id-tree.js:70:32)
-    at HTMLElement.asset-db:asset-uuid-changed (file:///Applications/CocosCreator%201.9.3.app/Contents/Resources/app.asar/editor/builtin/assets/panel/panel.js:1:6588)
-    at EventEmitter.e.on.t (/Applications/CocosCreator 1.9.3.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/polymer-utils.js:1:353)
-    at emitTwo (events.js:111:20)
-    at EventEmitter.emit (events.js:194:7)
+2018-08-15T08:24:22.211Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-15T08:24:22.214Z - normal: checking language setting...
+2018-08-15T08:24:22.215Z - normal: Language: zh
+2018-08-15T08:24:22.942Z - success: protocol editor-framework registered
+2018-08-15T08:24:22.943Z - success: protocol app registered
+2018-08-15T08:24:22.943Z - success: protocol theme registered
+2018-08-15T08:24:22.943Z - success: protocol packages registered
+2018-08-15T08:24:22.943Z - success: protocol unpack registerred
+2018-08-15T08:24:22.943Z - success: protocol disable-commonjs registerred
+2018-08-15T08:24:23.222Z - normal: connected!
+2018-08-15T08:24:23.223Z - normal: Check project /Users/mac/MatchVsGithub/DuckHunt/DuckHunt
+2018-08-15T08:24:23.224Z - normal: Initializing Cocos2d
+2018-08-15T08:24:23.420Z - normal: Initializing Asset Database
+2018-08-15T08:24:23.450Z - success: protocol uuid registerred
+2018-08-15T08:24:23.450Z - success: protocol db registerred
+2018-08-15T08:24:23.450Z - success: protocol thumbnail registerred
+2018-08-15T08:24:23.450Z - normal: Loading editor/builtin packages
+2018-08-15T08:24:23.469Z - success: anysdk loaded
+2018-08-15T08:24:23.572Z - success: assets loaded
+2018-08-15T08:24:23.575Z - success: builder loaded
+2018-08-15T08:24:23.577Z - success: cocos-analytics loaded
+2018-08-15T08:24:23.581Z - success: console loaded
+2018-08-15T08:24:23.611Z - success: fb-instant-games loaded
+2018-08-15T08:24:23.614Z - success: hierarchy loaded
+2018-08-15T08:24:23.619Z - success: inspector loaded
+2018-08-15T08:24:23.620Z - success: keystore loaded
+2018-08-15T08:24:23.624Z - success: node-library loaded
+2018-08-15T08:24:23.626Z - success: package-asset loaded
+2018-08-15T08:24:23.628Z - success: preferences loaded
+2018-08-15T08:24:23.631Z - success: project-exporter loaded
+2018-08-15T08:24:23.646Z - success: project-importer loaded
+2018-08-15T08:24:23.649Z - success: project-settings loaded
+2018-08-15T08:24:23.654Z - success: ui-kit loaded
+2018-08-15T08:24:23.659Z - success: ui-grid loaded
+2018-08-15T08:24:23.663Z - success: scene loaded
+2018-08-15T08:24:23.664Z - success: sprite-editor loaded
+2018-08-15T08:24:23.668Z - success: store loaded
+2018-08-15T08:24:23.673Z - success: timeline loaded
+2018-08-15T08:24:23.673Z - normal: Loading builtin packages
+2018-08-15T08:24:23.677Z - success: asset-db-debugger loaded
+2018-08-15T08:24:23.678Z - success: color-picker loaded
+2018-08-15T08:24:23.682Z - success: package-manager loaded
+2018-08-15T08:24:23.683Z - success: qqplay-adapter loaded
+2018-08-15T08:24:23.691Z - success: sdkbox loaded
+2018-08-15T08:24:23.696Z - success: tester loaded
+2018-08-15T08:24:23.700Z - success: ui-kit-preview-extra loaded
+2018-08-15T08:24:23.704Z - success: ui-kit-preview loaded
+2018-08-15T08:24:23.707Z - success: ui-tree loaded
+2018-08-15T08:24:23.708Z - success: weapp-adapter loaded
+2018-08-15T08:24:24.575Z - normal: Initializing project /Users/mac/MatchVsGithub/DuckHunt/DuckHunt
+2018-08-15T08:24:24.578Z - normal: Loading packages
+2018-08-15T08:24:24.589Z - success: plugin-matchvs loaded
+2018-08-15T08:24:24.589Z - normal: Watching packages
+2018-08-15T08:24:24.696Z - normal: Run Application
+2018-08-15T08:24:26.148Z - success: preview server running at http://localhost:7458
+2018-08-15T08:24:32.126Z - normal: 1.9.3
