@@ -59,8 +59,8 @@ cc.Class({
 
     gameOver: function() {
         // 打开结算界面--
-        console.log("游戏结束");
-        if (Game.GameManager.gameState !== GameState.Over) {
+        var gamePanel = uiFunc.findUI("uiGamePanel");
+        if (gamePanel && Game.GameManager.gameState !== GameState.Over) {
             Game.GameManager.gameState = GameState.Over;
             var data = [].concat(GLB.playerUserIds);
             data.sort(function(a, b) {
@@ -146,12 +146,17 @@ cc.Class({
         mvs.response.sendEventNotify = this.sendEventNotify.bind(this);
         mvs.response.frameUpdate = this.frameUpdate.bind(this);
         mvs.response.setFrameSyncResponse = this.setFrameSyncResponse.bind(this);
+        mvs.response.networkStateNotify = this.networkStateNotify.bind(this);
 
         var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId);
         if (result !== 0) {
             console.log('初始化失败,错误码:' + result);
         }
         Game.GameManager.blockInput();
+    },
+
+    networkStateNotify: function(netNotify) {
+        clientEvent.dispatch(clientEvent.eventType.leaveRoomMedNotify, netNotify);
     },
 
     kickPlayerNotify: function(kickPlayerNotify) {

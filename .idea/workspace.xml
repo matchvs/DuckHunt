@@ -4,8 +4,19 @@
     <list default="true" id="c190ddce-2538-46df-b51d-e0bd0454d081" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/imports/8d/8d844406-e950-4f57-a78d-c89587ed7d0d.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/8d/8d844406-e950-4f57-a78d-c89587ed7d0d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/common/script/basic/messenger/clientEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/basic/messenger/clientEvent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/common/script/uiRoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/uiRoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/common/script/uiRoomList.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/uiRoomList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/uuid-to-mtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/uuid-to-mtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/logs/project.log" beforeDir="false" afterPath="$PROJECT_DIR$/local/logs/project.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js.map" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,55 +31,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/common/script/basic/gameManager.js">
+        <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="1976">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/uiLobbyPanel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../JumpJump/JumpJump/assets/game/script/managers/gameManager.js">
+        <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/basic/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="3876">
+              <caret line="205" selection-start-line="205" selection-end-line="206" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../OneTwoStep/OneTwoStep/assets/game/script/gameManager.js">
+        <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../BasketBall/BasketBall/assets/common/script/basic/gameManager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../ExtremeEvasion/ExtremeEvasion/assets/game/script/managers/gameManager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="1919">
+              <caret line="102" selection-start-line="102" selection-end-line="103" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../OneTwoStep/OneTwoStep/assets/common/script/uiLobbyPanel.js">
+        <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/uiLobbyPanel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+            <state relative-caret-position="1501">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/uiLobbyPanel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1501">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/game/script/managers/gameManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1862">
+              <caret line="98" selection-start-line="98" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/basic/script/uiLobbyPanel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/game/script/managers/gameManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1824">
+              <caret line="97" selection-start-line="97" selection-end-line="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/lobby/uiScript/uiLobbyPanel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -126,6 +173,16 @@
         <option value="$PROJECT_DIR$/../../OneTwoStep/OneTwoStep/assets/game/script/gameManager.js" />
         <option value="$PROJECT_DIR$/../../BasketBall/BasketBall/assets/common/script/basic/gameManager.js" />
         <option value="$PROJECT_DIR$/../../ExtremeEvasion/ExtremeEvasion/assets/game/script/managers/gameManager.js" />
+        <option value="$PROJECT_DIR$/../../RobCoin/RobCoin/assets/game/script/managers/gameManager.js" />
+        <option value="$PROJECT_DIR$/../../RobCoin/RobCoin/assets/lobby/uiScript/uiLobbyPanel.js" />
+        <option value="$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/game/script/managers/gameManager.js" />
+        <option value="$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/basic/script/uiLobbyPanel.js" />
+        <option value="$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/gameManager.js" />
+        <option value="$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/uiLobbyPanel.js" />
+        <option value="$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/basic/gameManager.js" />
+        <option value="$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/uiLobbyPanel.js" />
+        <option value="$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/gameManager.js" />
+        <option value="$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/uiLobbyPanel.js" />
       </list>
     </option>
   </component>
@@ -141,7 +198,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
@@ -212,22 +269,22 @@
       <updated>1532661226803</updated>
       <workItem from="1532661238057" duration="2339000" />
       <workItem from="1533554489490" duration="1201000" />
-      <workItem from="1534229525513" duration="4126000" />
+      <workItem from="1534229525513" duration="6423000" />
+      <workItem from="1534239369703" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7666000" />
+    <option name="totallyTimeSpent" value="10482000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="977" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -236,10 +293,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +307,69 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/basic/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="204" selection-start-line="204" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="101" selection-start-line="101" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/game/script/managers/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="98" selection-start-line="98" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/basic/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/game/script/managers/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="96" selection-start-line="96" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/lobby/uiScript/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/common/script/basic/DataFunc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -267,9 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27208">
           <caret line="1434" column="36" selection-start-line="1434" selection-start-column="29" selection-end-line="1434" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -349,9 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27208">
           <caret line="1434" column="36" selection-start-line="1434" selection-start-column="29" selection-end-line="1434" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -362,13 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/script/uiMask.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/script/uiMask.js" />
     <entry file="file://$PROJECT_DIR$/assets/common/script/basic/rankNetwork/network.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -425,24 +534,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/script/basic/gameManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../JumpJump/JumpJump/assets/basic/script/uiLobbyPanel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="44" column="56" lean-forward="true" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../JumpJump/JumpJump/assets/game/script/managers/gameManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -464,6 +559,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../JumpJump/JumpJump/assets/game/script/managers/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/script/basic/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="153" selection-start-line="153" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/lobby/uiScript/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/game/script/managers/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="97" selection-start-line="97" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/basic/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DoubleShoot/DoubleShoot/assets/game/script/managers/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="98" selection-start-line="98" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="102" selection-start-line="102" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/basic/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="205" selection-start-line="205" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/uiLobbyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>

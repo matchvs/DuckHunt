@@ -23,6 +23,7 @@ cc.Class({
         clientEvent.on(clientEvent.eventType.kickPlayerResponse, this.kickPlayerResponse, this);
         clientEvent.on(clientEvent.eventType.kickPlayerNotify, this.kickPlayerNotify, this);
         clientEvent.on(clientEvent.eventType.joinOverResponse, this.joinOverResponse, this);
+        clientEvent.on(clientEvent.eventType.leaveRoomMedNotify, this.leaveRoomMedNotify, this);
 
         for (var i = 0; i < GLB.MAX_PLAYER_COUNT; i++) {
             var temp = cc.instantiate(this.playerPrefab);
@@ -81,6 +82,25 @@ cc.Class({
         GLB.isRoomOwner = false;
         uiFunc.closeUI(this.node.name);
         this.node.destroy();
+    },
+
+    leaveRoomMedNotify: function(data) {
+        for (var j = 0; j < this.players.length; j++) {
+            if (this.players[j].userId === data.userID) {
+                this.players[j].init();
+                break;
+            }
+        }
+        this.ownerId = data.owner;
+        if (this.ownerId === GLB.userInfo.id) {
+            GLB.isRoomOwner = true;
+        }
+        for (var i = 0; i < this.players.length; i++) {
+            if (this.players[i].userId !== 0) {
+                this.players[i].setData(this.players[i].userId, this.ownerId);
+            }
+        }
+        this.refreshStartBtn();
     },
 
     leaveRoomNotify: function(data) {
