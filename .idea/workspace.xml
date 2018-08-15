@@ -3,20 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c190ddce-2538-46df-b51d-e0bd0454d081" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/common/script/basic/messenger/clientEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/basic/messenger/clientEvent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/common/script/uiRoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/uiRoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/common/script/uiRoomList.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/uiRoomList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/71/71bef84c-8ce6-4b2b-8910-a8e638c8d999.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/72/72f2fd5c-6066-4e84-8672-aaf7affab5b2.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/uuid-to-mtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/uuid-to-mtime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/logs/project.log" beforeDir="false" afterPath="$PROJECT_DIR$/local/logs/project.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/basic/gameManager.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/common/script/uiRoom.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/common/script/uiCreateRoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/uiCreateRoom.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
