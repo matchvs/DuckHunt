@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c190ddce-2538-46df-b51d-e0bd0454d081" name="Default" comment="" />
+    <list default="true" id="c190ddce-2538-46df-b51d-e0bd0454d081" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/common/script/basic/rankNetwork/pomeloBuild.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/common/script/basic/rankNetwork/pomeloBuild.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/local/assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/hierarchy.json" beforeDir="false" afterPath="$PROJECT_DIR$/local/hierarchy.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,13 +22,13 @@
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1976">
+            <state relative-caret-position="1995">
               <caret line="105" selection-start-line="105" selection-end-line="105" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/uiLobbyPanel.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
@@ -32,10 +37,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/common/script/basic/gameManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="280" column="39" selection-start-line="280" selection-start-column="39" selection-end-line="280" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/basic/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3876">
+            <state relative-caret-position="3895">
               <caret line="205" selection-start-line="205" selection-end-line="206" />
             </state>
           </provider>
@@ -44,7 +58,7 @@
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1919">
+            <state relative-caret-position="1938">
               <caret line="102" selection-start-line="102" selection-end-line="103" />
             </state>
           </provider>
@@ -89,17 +103,8 @@
       <file leaf-file-name="gameManager.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/game/script/managers/gameManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1824">
+            <state relative-caret-position="1843">
               <caret line="97" selection-start-line="97" selection-end-line="98" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uiLobbyPanel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/lobby/uiScript/uiLobbyPanel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -152,7 +157,6 @@
         <option value="$PROJECT_DIR$/../../BasketBall/BasketBall/assets/common/script/uiLobbyPanel.js" />
         <option value="$PROJECT_DIR$/../../ExtremeEvasion/ExtremeEvasion/assets/basic/script/uiLobbyPanel.js" />
         <option value="$PROJECT_DIR$/../../JumpJump/JumpJump/assets/basic/script/uiLobbyPanel.js" />
-        <option value="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" />
         <option value="$PROJECT_DIR$/../../JumpJump/JumpJump/assets/game/script/managers/gameManager.js" />
         <option value="$PROJECT_DIR$/../../OneTwoStep/OneTwoStep/assets/game/script/gameManager.js" />
         <option value="$PROJECT_DIR$/../../BasketBall/BasketBall/assets/common/script/basic/gameManager.js" />
@@ -167,6 +171,7 @@
         <option value="$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/uiLobbyPanel.js" />
         <option value="$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/gameManager.js" />
         <option value="$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/uiLobbyPanel.js" />
+        <option value="$PROJECT_DIR$/assets/common/script/basic/gameManager.js" />
       </list>
     </option>
   </component>
@@ -183,8 +188,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="x" value="1155" />
+    <option name="y" value="328" />
+    <option name="width" value="1879" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -255,17 +261,18 @@
       <workItem from="1533554489490" duration="1201000" />
       <workItem from="1534229525513" duration="6423000" />
       <workItem from="1534239369703" duration="519000" />
+      <workItem from="1534491030718" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10482000" />
+    <option name="totallyTimeSpent" value="10502000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <frame x="41" y="23" width="1879" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24919268" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -277,11 +284,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,24 +546,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../ExtremeEvasion/ExtremeEvasion/assets/game/script/managers/gameManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ExtremeEvasion/ExtremeEvasion/assets/game/script/managers/gameManager.js" />
     <entry file="file://$PROJECT_DIR$/../../JumpJump/JumpJump/assets/game/script/managers/gameManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/common/script/basic/gameManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="153" selection-start-line="153" selection-end-line="154" />
         </state>
       </provider>
     </entry>
@@ -569,7 +563,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../RobCoin/RobCoin/assets/game/script/managers/gameManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
+        <state relative-caret-position="1843">
           <caret line="97" selection-start-line="97" selection-end-line="98" />
         </state>
       </provider>
@@ -597,7 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../AnimalChecker/AnimalChecker/assets/common/script/gameManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1919">
+        <state relative-caret-position="1938">
           <caret line="102" selection-start-line="102" selection-end-line="103" />
         </state>
       </provider>
@@ -611,14 +605,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../BirdWar/BirdWar/BirdWar/assets/common/script/basic/gameManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3876">
+        <state relative-caret-position="3895">
           <caret line="205" selection-start-line="205" selection-end-line="206" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../ShaoLinTemple/ShaoLinTemple/assets/common/script/gameManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1976">
+        <state relative-caret-position="1995">
           <caret line="105" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
@@ -627,6 +621,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/common/script/basic/gameManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="280" column="39" selection-start-line="280" selection-start-column="39" selection-end-line="280" selection-end-column="39" />
         </state>
       </provider>
     </entry>
