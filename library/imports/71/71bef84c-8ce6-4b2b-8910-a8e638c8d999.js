@@ -30,26 +30,27 @@ cc.Class({
         this.network.chooseNetworkMode();
         this.getRankDataListener();
         this.findPlayerByAccountListener();
-        try {
-            wx.login({
-                success: function success() {
-                    wx.getUserInfo({
-                        fail: function fail(res) {
-                            // iOS 和 Android 对于拒绝授权的回调 errMsg 没有统一，需要做一下兼容处理
-                            if (res.errMsg.indexOf('auth deny') > -1 || res.errMsg.indexOf('auth denied') > -1) {
-                                // 处理用户拒绝授权的情况
-                                console.log("fail");
-                            }
-                        },
-                        success: function success(res) {
-                            Game.GameManager.nickName = res.userInfo.nickName;
-                            Game.GameManager.avatarUrl = res.userInfo.avatarUrl;
-                            console.log('success', Game.GameManager.nickName);
-                        }
-                    });
-                }
-            });
-        } catch (e) {}
+        // try {
+        //     wx.login({
+        //         success: function() {
+        //             wx.getUserInfo({
+        //                 fail: function(res) {
+        //                     // iOS 和 Android 对于拒绝授权的回调 errMsg 没有统一，需要做一下兼容处理
+        //                     if (res.errMsg.indexOf('auth deny') > -1 || res.errMsg.indexOf('auth denied') > -1) {
+        //                         // 处理用户拒绝授权的情况
+        //                         console.log("fail");
+        //                     }
+        //                 },
+        //                 success: function(res) {
+        //                     Game.GameManager.nickName = res.userInfo.nickName;
+        //                     Game.GameManager.avatarUrl = res.userInfo.avatarUrl;
+        //                     console.log('success', Game.GameManager.nickName);
+        //                 }
+        //             });
+        //         }
+        //     })
+        // } catch (e) {
+        // }
     },
 
 
@@ -277,13 +278,14 @@ cc.Class({
     },
 
     logoutResponse: function logoutResponse(status) {
+        Game.GameManager.network.disconnect();
         console.log("reload lobby");
         cc.game.removePersistRootNode(this.node);
         cc.director.loadScene('lobby');
     },
 
     errorResponse: function errorResponse(error, msg) {
-        if (error === 1001) {
+        if (error === 1001 || error === 0) {
             uiFunc.openUI("uiTip", function (obj) {
                 var uiTip = obj.getComponent("uiTip");
                 if (uiTip) {
