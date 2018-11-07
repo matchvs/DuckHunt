@@ -2,6 +2,16 @@
 
 ## CC游戏案例之 多人狩猎
 
+## 体验说明
+
+联网游戏通常为多人游戏,需要`开启多个客户端`,详情见[多开说明](http://www.matchvs.com/service?page=MultipleIdentities)
+
+## 在线体验
+PC体验地址 (http://demo.matchvs.com/DuckHunt)
+
+手机体验地址 (http://demo.matchvs.com/DuckHunt-mobile)
+
+## 通过源码运行
 ## 环境准备
 
 1. 下载安装[cocos creator](http://www.cocos.com/download)v1.8.1或以上版本
