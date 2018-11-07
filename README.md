@@ -11,6 +11,10 @@ PC体验地址 (http://demo.matchvs.com/DuckHunt)
 
 手机体验地址 (http://demo.matchvs.com/DuckHunt-mobile)
 
+### 专题介绍
+
+[多人狩猎] - 时下火爆的微信小游戏如何快速开发 (./[多人狩猎] - 时下火爆的微信小游戏如何快速开发.md)
+
 ## 通过源码运行
 ## 环境准备
 
