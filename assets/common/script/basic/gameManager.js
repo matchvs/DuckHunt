@@ -148,7 +148,9 @@ cc.Class({
         mvs.response.setFrameSyncResponse = this.setFrameSyncResponse.bind(this);
         mvs.response.networkStateNotify = this.networkStateNotify.bind(this);
 
-        var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId);
+        // var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId);
+        var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId,
+            GLB.appKey, GLB.gameVersion);
         if (result !== 0) {
             console.log('初始化失败,错误码:' + result);
         }
@@ -313,12 +315,13 @@ cc.Class({
 
         console.log('开始登录,用户Id:' + userInfo.id)
 
-        var result = mvs.engine.login(
+        /*var result = mvs.engine.login(
             userInfo.id, userInfo.token,
             GLB.gameId, GLB.gameVersion,
             GLB.appKey, GLB.secret,
             deviceId, gatewayId
-        );
+        );*/
+        var result = mvs.engine.login(userInfo.id, userInfo.token,deviceId);
         if (result !== 0) {
             console.log('登录失败,错误码:' + result);
         }

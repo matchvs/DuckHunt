@@ -103,7 +103,7 @@ cc.Class({
     },
 
     leaveRoom: function leaveRoom() {
-        mvs.engine.leaveRoom();
+        mvs.engine.leaveRoom("");
     },
 
     leaveRoomNotify: function leaveRoomNotify(data) {
