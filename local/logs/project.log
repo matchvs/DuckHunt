@@ -1,56 +1,56 @@
-2019-03-07T03:47:47.842Z - normal: Load ~/.CocosCreator/settings.json
-2019-03-07T03:47:47.845Z - normal: checking language setting...
-2019-03-07T03:47:47.845Z - normal: Language: zh
-2019-03-07T03:47:48.453Z - success: protocol editor-framework registered
-2019-03-07T03:47:48.453Z - success: protocol app registered
-2019-03-07T03:47:48.453Z - success: protocol theme registered
-2019-03-07T03:47:48.454Z - success: protocol packages registered
-2019-03-07T03:47:48.454Z - success: protocol unpack registerred
-2019-03-07T03:47:48.454Z - success: protocol disable-commonjs registerred
-2019-03-07T03:47:48.658Z - normal: connected!
-2019-03-07T03:47:48.660Z - normal: Check project /Users/mac/DuckHunt
-2019-03-07T03:47:48.662Z - normal: Initializing Cocos2d
-2019-03-07T03:47:48.851Z - normal: Initializing Asset Database
-2019-03-07T03:47:48.876Z - success: protocol uuid registerred
-2019-03-07T03:47:48.877Z - success: protocol db registerred
-2019-03-07T03:47:48.877Z - success: protocol thumbnail registerred
-2019-03-07T03:47:48.877Z - normal: Loading editor/builtin packages
-2019-03-07T03:47:48.892Z - success: anysdk loaded
-2019-03-07T03:47:48.985Z - success: assets loaded
-2019-03-07T03:47:48.989Z - success: builder loaded
-2019-03-07T03:47:48.990Z - success: cocos-analytics loaded
-2019-03-07T03:47:48.994Z - success: console loaded
-2019-03-07T03:47:49.022Z - success: fb-instant-games loaded
-2019-03-07T03:47:49.025Z - success: hierarchy loaded
-2019-03-07T03:47:49.028Z - success: inspector loaded
-2019-03-07T03:47:49.029Z - success: keystore loaded
-2019-03-07T03:47:49.032Z - success: node-library loaded
-2019-03-07T03:47:49.034Z - success: package-asset loaded
-2019-03-07T03:47:49.035Z - success: preferences loaded
-2019-03-07T03:47:49.038Z - success: project-exporter loaded
-2019-03-07T03:47:49.051Z - success: project-importer loaded
-2019-03-07T03:47:49.054Z - success: project-settings loaded
-2019-03-07T03:47:49.058Z - success: ui-kit loaded
-2019-03-07T03:47:49.062Z - success: ui-grid loaded
-2019-03-07T03:47:49.065Z - success: scene loaded
-2019-03-07T03:47:49.066Z - success: sprite-editor loaded
-2019-03-07T03:47:49.070Z - success: store loaded
-2019-03-07T03:47:49.074Z - success: timeline loaded
-2019-03-07T03:47:49.074Z - normal: Loading builtin packages
-2019-03-07T03:47:49.078Z - success: asset-db-debugger loaded
-2019-03-07T03:47:49.079Z - success: color-picker loaded
-2019-03-07T03:47:49.082Z - success: package-manager loaded
-2019-03-07T03:47:49.083Z - success: qqplay-adapter loaded
-2019-03-07T03:47:49.090Z - success: sdkbox loaded
-2019-03-07T03:47:49.094Z - success: tester loaded
-2019-03-07T03:47:49.098Z - success: ui-kit-preview-extra loaded
-2019-03-07T03:47:49.101Z - success: ui-kit-preview loaded
-2019-03-07T03:47:49.104Z - success: ui-tree loaded
-2019-03-07T03:47:49.105Z - success: weapp-adapter loaded
-2019-03-07T03:47:49.868Z - normal: Initializing project /Users/mac/DuckHunt
-2019-03-07T03:47:49.871Z - normal: Loading packages
-2019-03-07T03:47:49.882Z - success: plugin-matchvs loaded
-2019-03-07T03:47:49.883Z - normal: Watching packages
-2019-03-07T03:47:49.979Z - normal: Run Application
-2019-03-07T03:47:50.775Z - success: preview server running at http://localhost:7456
-2019-03-07T03:47:56.717Z - normal: 1.9.3
+2019-03-12T03:25:46.148Z - normal: Load ~/.CocosCreator/settings.json
+2019-03-12T03:25:46.151Z - normal: checking language setting...
+2019-03-12T03:25:46.151Z - normal: Language: zh
+2019-03-12T03:25:46.792Z - success: protocol editor-framework registered
+2019-03-12T03:25:46.792Z - success: protocol app registered
+2019-03-12T03:25:46.792Z - success: protocol theme registered
+2019-03-12T03:25:46.792Z - success: protocol packages registered
+2019-03-12T03:25:46.793Z - success: protocol unpack registerred
+2019-03-12T03:25:46.793Z - success: protocol disable-commonjs registerred
+2019-03-12T03:25:47.025Z - normal: connected!
+2019-03-12T03:25:47.028Z - normal: Check project /Users/mac/DuckHunt
+2019-03-12T03:25:47.029Z - normal: Initializing Cocos2d
+2019-03-12T03:25:47.174Z - normal: Initializing Asset Database
+2019-03-12T03:25:47.203Z - success: protocol uuid registerred
+2019-03-12T03:25:47.203Z - success: protocol db registerred
+2019-03-12T03:25:47.203Z - success: protocol thumbnail registerred
+2019-03-12T03:25:47.204Z - normal: Loading editor/builtin packages
+2019-03-12T03:25:47.219Z - success: anysdk loaded
+2019-03-12T03:25:47.316Z - success: assets loaded
+2019-03-12T03:25:47.319Z - success: builder loaded
+2019-03-12T03:25:47.321Z - success: cocos-analytics loaded
+2019-03-12T03:25:47.324Z - success: console loaded
+2019-03-12T03:25:47.351Z - success: fb-instant-games loaded
+2019-03-12T03:25:47.355Z - success: hierarchy loaded
+2019-03-12T03:25:47.359Z - success: inspector loaded
+2019-03-12T03:25:47.361Z - success: keystore loaded
+2019-03-12T03:25:47.364Z - success: node-library loaded
+2019-03-12T03:25:47.366Z - success: package-asset loaded
+2019-03-12T03:25:47.368Z - success: preferences loaded
+2019-03-12T03:25:47.370Z - success: project-exporter loaded
+2019-03-12T03:25:47.384Z - success: project-importer loaded
+2019-03-12T03:25:47.387Z - success: project-settings loaded
+2019-03-12T03:25:47.390Z - success: ui-kit loaded
+2019-03-12T03:25:47.395Z - success: ui-grid loaded
+2019-03-12T03:25:47.398Z - success: scene loaded
+2019-03-12T03:25:47.399Z - success: sprite-editor loaded
+2019-03-12T03:25:47.402Z - success: store loaded
+2019-03-12T03:25:47.407Z - success: timeline loaded
+2019-03-12T03:25:47.407Z - normal: Loading builtin packages
+2019-03-12T03:25:47.410Z - success: asset-db-debugger loaded
+2019-03-12T03:25:47.411Z - success: color-picker loaded
+2019-03-12T03:25:47.415Z - success: package-manager loaded
+2019-03-12T03:25:47.416Z - success: qqplay-adapter loaded
+2019-03-12T03:25:47.422Z - success: sdkbox loaded
+2019-03-12T03:25:47.426Z - success: tester loaded
+2019-03-12T03:25:47.429Z - success: ui-kit-preview-extra loaded
+2019-03-12T03:25:47.432Z - success: ui-kit-preview loaded
+2019-03-12T03:25:47.436Z - success: ui-tree loaded
+2019-03-12T03:25:47.437Z - success: weapp-adapter loaded
+2019-03-12T03:25:48.258Z - normal: Initializing project /Users/mac/DuckHunt
+2019-03-12T03:25:48.260Z - normal: Loading packages
+2019-03-12T03:25:48.269Z - success: plugin-matchvs loaded
+2019-03-12T03:25:48.269Z - normal: Watching packages
+2019-03-12T03:25:48.371Z - normal: Run Application
+2019-03-12T03:25:50.478Z - success: preview server running at http://localhost:7456
+2019-03-12T03:25:56.274Z - normal: 1.9.3

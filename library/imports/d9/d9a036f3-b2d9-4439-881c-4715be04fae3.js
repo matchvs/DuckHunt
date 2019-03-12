@@ -46,8 +46,11 @@ cc.Class({
     },
     update: function update(dt) {
         if (GLB.userInfo.id !== this.playerId) {
-            this.node.rotation = cc.lerp(this.node.rotation, this.targetRotation, 10 * dt);
+            this.node.rotation = this.lerp(this.node.rotation, this.targetRotation, 10 * dt);
         }
+    },
+    lerp: function lerp(a, b, r) {
+        return a + (b - a) * r;
     },
     onDestroy: function onDestroy() {
         clearInterval(this.rotateID);

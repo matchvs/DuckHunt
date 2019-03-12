@@ -1,17 +1,12 @@
 {
-  "appKey": "",
-  "appSecret": "",
   "encryptJs": true,
   "excludeScenes": [],
   "fb-instant-games": {},
-  "includeAnySDK": false,
   "includeSDKBox": false,
   "inlineSpriteFrames": true,
   "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
   "md5Cache": true,
   "mergeStartScene": false,
-  "oauthLoginServer": "",
   "optimizeHotUpdate": false,
   "orientation": {
     "landscapeLeft": true,
@@ -20,11 +15,9 @@
     "upsideDown": false
   },
   "packageName": "org.cocos2d.DuckHunt",
-  "privateKey": "",
   "qqplay": {
     "orientation": "portrait"
   },
-  "renderMode": "0",
   "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
   "title": "duckHunt",
   "webOrientation": "landscape",
@@ -34,5 +27,12 @@
     "orientation": "landscape"
   },
   "xxteaKey": "a15e5bec-8ac1-4f",
-  "zipCompressJs": true
+  "zipCompressJs": true,
+  "includeAnySDK": false,
+  "oauthLoginServer": "",
+  "appKey": "",
+  "appSecret": "",
+  "privateKey": "",
+  "jailbreakPlatform": false,
+  "renderMode": "0"
 }
